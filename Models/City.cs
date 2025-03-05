@@ -7,7 +7,6 @@ namespace AmadeusG3_Neo_Tech_BackEnd.Models
         public string Img { get; set; } = string.Empty;
         public string Pais { get; set; } = string.Empty;
         public string Idioma { get; set; } = string.Empty;
-        public string CityEurope { get; set; } = string.Empty;
         public string LugarImperdible { get; set; } = string.Empty;
         public string ComidaTipica { get; set; } = string.Empty;
         public string Continente { get; set; } = string.Empty;
